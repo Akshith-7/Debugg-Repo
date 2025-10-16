@@ -12,7 +12,7 @@ const TodoItem = props => {
     <li>
       <p className="title">{title}</p>
       <button type="button" className="delete-btn" onClick={onDeleteTodo}>
-        Delete
+        Delete Karo
       </button>
     </li>
   )
